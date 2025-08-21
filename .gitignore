@@ -24,7 +24,7 @@ playwright/
 *.sqlite3
 
 # CSV output
-nba_stats.csv
+#nba_stats.csv
 
 # MacOS
 .DS_Store
