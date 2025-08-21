@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Playwright browsers
+playwright/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# CSV output
+nba_stats.csv
+
+# MacOS
+.DS_Store
+
+# Python cache
+*.pyc
+*.pyo
